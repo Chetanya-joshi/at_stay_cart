@@ -64,6 +64,8 @@ export default function Attour() {
 
               <div className="categories p-3" style={{borderTop:'1px solid #66cccc'}}>
                 <h6>Categories</h6>
+
+                
                   <div className="categoriesFilter">
                     <form>
                       <div className="beach">
